@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - A program that assigns a random number to the variable each time it is executed
- * whether it is greater than 5, less than 6, or 0.
+ * main - A program that assigns a random number to the variable each time it is executed.
  *
  * Return: Always 0.
  */
