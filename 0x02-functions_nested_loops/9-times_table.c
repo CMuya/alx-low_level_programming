@@ -2,7 +2,7 @@
 
 
 /**
-* main - Function that prints 9 times table
+* 9-times_table.c - Function that prints 9 times table
 *
 * Return: Always 0.
 */
