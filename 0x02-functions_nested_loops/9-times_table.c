@@ -7,6 +7,6 @@
 */
 int main(void)
 {
-times_table();
+times_table.c();
 return (0);
 }
